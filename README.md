@@ -11,7 +11,7 @@ It includes the following pages:
 This app is written using  **Typescript**, **SCSS**. Project is built with the help of **Webpack**.\
 You need to create a personal account to start using this app.
 
-This application was developed as part of the [Middle Frontend Developer](https://practicum.yandex.ru/middle-frontend/) course and is available [here](https://euphonious-trifle-ab3480.netlify.app/).
+This application was developed as part of the [Middle Frontend Developer](https://practicum.yandex.ru/middle-frontend/) course and is available [here](https://kate-messenger.onrender.com/).
 
 # Main functionality
 1. `login` and `registration`forms (with validation)
@@ -60,6 +60,5 @@ Runs Jest tests (`*.test.ts` files).
 ## Useful Links
 
 To view Figma Design please click [here](https://www.figma.com/file/UAcp9twOQHH1s8UkIoga2B/Untitled?node-id=0%3A1&t=mvcP96kY8BWzXmEV-0).\
-To view deployed project (Netlify) please click [here](https://euphonious-trifle-ab3480.netlify.app/).\
 To view deployed project (Render) please click [here](https://kate-messenger.onrender.com/)
 
